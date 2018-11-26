@@ -48,7 +48,7 @@
                     <DataGridTemplateColumn Header="下载" Width="1*" >
                         <DataGridTemplateColumn.CellTemplate>
                             <DataTemplate DataType="models:BasicMusicInfoModel">
-                                <Button  Margin="8" Click="BtnDownload_OnClick" Background="AliceBlue" BorderBrush="Aqua"  CommandParameter="{Binding Path=SongId}">下载</Button>
+                                <Button x:Name="BtnDownload"  Margin="8" Click="BtnDownload_OnClick" Background="AliceBlue" BorderBrush="Aqua"  CommandParameter="{Binding Path=SongId}">下载</Button>
                             </DataTemplate>
                         </DataGridTemplateColumn.CellTemplate>
                     </DataGridTemplateColumn>

@@ -35,9 +35,17 @@ namespace MusicDownload
         private AbsDownloaderPool _downloaderPool;
         private int _maxPageNum = 1;
         private int _curPageNum = 1;
+        private List<BasicMusicInfoModel> _songDataGridDbcontext;
+
 
         private readonly ConcurrentQueue<BasicMusicInfoModel> _downloadMusicQueue;
 
+        /// <summary>
+        /// 判断是否有网络
+        /// </summary>
+        /// <param name="Description"></param>
+        /// <param name="ReservedValue"></param>
+        /// <returns></returns>
         [DllImport("wininet.dll")]
         private static extern bool InternetGetConnectedState(int Description, int ReservedValue);
         public MainWindow()
@@ -76,6 +84,7 @@ namespace MusicDownload
 
         private void BtnDownload_OnClick(object sender, RoutedEventArgs e)
         {
+            ((FrameworkElement) sender).IsEnabled = false;
             if (((FrameworkElement)sender).DataContext is BasicMusicInfoModel obj)
             {
                 _downloadMusicQueue.Enqueue(obj);
@@ -158,15 +167,24 @@ namespace MusicDownload
         private void AfterDownload(string songInfo)
         {
             UpdateLabelStatus($"【{songInfo}】下载完毕！");
+            var splitIndex = songInfo.LastIndexOf("_", StringComparison.Ordinal);
+            var songName = songInfo.Substring(0, splitIndex);
+            var index = _songDataGridDbcontext.FindIndex(a => a.SongName == songName);
+            EnableBtn(index);
         }
         private void DownloadError(Exception e, string songInfo)
         {
             UpdateLabelStatus($"【{songInfo}】下载失败：{e.Message}");
+            var splitIndex = songInfo.LastIndexOf("_", StringComparison.Ordinal);
+            var songName = songInfo.Substring(0, splitIndex);
+            var index = _songDataGridDbcontext.FindIndex(a => a.SongName == songName);
+            EnableBtn(index);
         }
         #endregion
 
         #endregion
 
+        #region 从其他线程回到主线程执行
 
         /// <summary>
         /// 在ui线程中更新ui
@@ -179,8 +197,37 @@ namespace MusicDownload
                 this.LabelStatus.Content = t;
             }
 
-            this.Dispatcher.BeginInvoke((Action<string>) Action, DispatcherPriority.Send, text);
+            this.Dispatcher.BeginInvoke((Action<string>)Action, DispatcherPriority.Send, text);
         }
+
+        /// <summary>
+        /// 启用button
+        /// </summary>
+        /// <param name="rowIndex"></param>
+        private void EnableBtn(int rowIndex)
+        {
+            void Action(int index)
+            {
+                var colNum = SongDataGrid.Columns.Count;
+                var row = SongDataGrid.Items[index];
+                var col = SongDataGrid.Columns[colNum - 1];
+                var content = (ContentPresenter)col.GetCellContent(row);
+                if (content != null)
+                {
+                    DataTemplate contentTemplate = content.ContentTemplate;
+                    var findRes = contentTemplate.FindName("BtnDownload", content);
+                    if (findRes is Button btn)
+                    {
+                        btn.IsEnabled = true;
+                    }
+                }
+            }
+            this.Dispatcher.BeginInvoke((Action<int>)Action, DispatcherPriority.Send, rowIndex);
+
+        }
+
+        #endregion
+
 
         #region 跳转页码输入框相关事件
         private void PageNum_OnKeyDown(object sender, KeyEventArgs e)
@@ -247,7 +294,8 @@ namespace MusicDownload
             var musicInfos = await _parser.ParseAsync(searchInfo);
             _maxPageNum = musicInfos.Item1 % 20 == 0 ? musicInfos.Item1 / 20 : (musicInfos.Item1 / 20 + 1);
             LabelMaxPageNum.Content = "/" + _maxPageNum.ToString();
-            SongDataGrid.DataContext = musicInfos.Item2;
+            _songDataGridDbcontext = musicInfos.Item2;
+            SongDataGrid.DataContext = _songDataGridDbcontext;
             BtnNext.IsEnabled = _curPageNum != _maxPageNum;
             BtnPre.IsEnabled = _curPageNum != 1;
         }

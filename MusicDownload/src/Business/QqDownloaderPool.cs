@@ -40,7 +40,7 @@ namespace MusicDownload.Business
 
                     Thread.Sleep(500);
                 }
-            });
+            }).ConfigureAwait(false);
         }
     }
 }

@@ -18,3 +18,10 @@ F:\Programs\Vs2017\QQMusicDownload\MusicDownload\obj\Release\MusicDownload.cspro
 F:\Programs\Vs2017\QQMusicDownload\MusicDownload\obj\Release\MusicDownload.csproj.CopyComplete
 F:\Programs\Vs2017\QQMusicDownload\MusicDownload\obj\Release\MusicDownload.exe
 F:\Programs\Vs2017\QQMusicDownload\MusicDownload\obj\Release\MusicDownload.pdb
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\MusicDownload\obj\Release\MusicDownload.csprojAssemblyReference.cache
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\MusicDownload\obj\Release\MainWindow.g.cs
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\MusicDownload\obj\Release\App.g.cs
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\MusicDownload\obj\Release\MusicDownload_MarkupCompile.cache
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\MusicDownload\obj\Release\MusicDownload_MarkupCompile.lref
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\MusicDownload\obj\Release\MusicDownload.exe
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\MusicDownload\obj\Release\MusicDownload.pdb
