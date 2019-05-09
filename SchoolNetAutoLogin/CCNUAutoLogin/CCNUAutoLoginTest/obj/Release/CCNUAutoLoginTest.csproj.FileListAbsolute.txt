@@ -1,0 +1,22 @@
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\CCNUAutoLoginTest.exe.config
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\CCNUAutoLoginTest.exe
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\CCNUAutoLoginTest.pdb
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\Jil.dll
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\Sigil.dll
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\Jil.xml
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\Sigil.xml
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.csprojAssemblyReference.cache
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.csproj.CoreCompileInputs.cache
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.csproj.CopyComplete
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.exe
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.pdb
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\CCNUAutoLoginTest.exe.config
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\CCNUAutoLoginTest.exe
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\CCNUAutoLoginTest.pdb
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\Jil.xml
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\bin\Release\Sigil.xml
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.csprojAssemblyReference.cache
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.csproj.CoreCompileInputs.cache
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.csproj.CopyComplete
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.exe
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLoginTest\obj\Release\CCNUAutoLoginTest.pdb

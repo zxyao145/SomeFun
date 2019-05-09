@@ -1,0 +1,28 @@
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Debug\CCNUAutoLogin.exe.config
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Debug\CCNUAutoLogin.exe
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Debug\CCNUAutoLogin.pdb
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Debug\Jil.dll
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Debug\Sigil.dll
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Debug\Jil.xml
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Debug\Sigil.xml
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Debug\CCNUAutoLogin.ProjectInstaller.resources
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Debug\CCNUAutoLogin.csproj.GenerateResource.cache
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Debug\CCNUAutoLogin.csproj.CoreCompileInputs.cache
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Debug\CCNUAutoLogin.csproj.CopyComplete
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Debug\CCNUAutoLogin.exe
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Debug\CCNUAutoLogin.pdb
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Debug\CCNUAutoLogin.csprojAssemblyReference.cache
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\bin\Debug\CCNUAutoLogin.exe.config
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\bin\Debug\CCNUAutoLogin.exe
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\bin\Debug\CCNUAutoLogin.pdb
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\bin\Debug\Jil.dll
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\bin\Debug\Sigil.dll
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\bin\Debug\Jil.xml
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\bin\Debug\Sigil.xml
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\obj\Debug\CCNUAutoLogin.csprojAssemblyReference.cache
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\obj\Debug\CCNUAutoLogin.ProjectInstaller.resources
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\obj\Debug\CCNUAutoLogin.csproj.GenerateResource.cache
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\obj\Debug\CCNUAutoLogin.csproj.CoreCompileInputs.cache
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\obj\Debug\CCNUAutoLogin.csproj.CopyComplete
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\obj\Debug\CCNUAutoLogin.exe
+C:\Users\zhang\Documents\Visual Studio 2017\Projects\CCNUAutoLoginIn\CCNUAutoLogin\obj\Debug\CCNUAutoLogin.pdb

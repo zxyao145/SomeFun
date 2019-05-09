@@ -1,0 +1,28 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Debug\SchoolNetworkAutoLogin.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Debug\SchoolNetworkAutoLogin.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Debug\SchoolNetworkAutoLogin.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Debug\Jil.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Debug\Sigil.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Debug\Jil.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Debug\Sigil.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.ProjectInstaller.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.csproj.CopyComplete
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Debug\SchoolNetworkAutoLogin.exe.config
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Debug\SchoolNetworkAutoLogin.exe
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Debug\SchoolNetworkAutoLogin.pdb
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Debug\Jil.dll
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Debug\Sigil.dll
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Debug\Jil.xml
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Debug\Sigil.xml
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.csprojAssemblyReference.cache
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.ProjectInstaller.resources
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.csproj.GenerateResource.cache
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.csproj.CoreCompileInputs.cache
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.csproj.CopyComplete
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.exe
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Debug\SchoolNetworkAutoLogin.pdb

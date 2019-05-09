@@ -1,0 +1,42 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.ProjectInstaller.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Release\Jil.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Release\Sigil.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Release\Jil.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\bin\Release\Sigil.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\SchoolNetworkAutoLogin\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.CopyComplete
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.exe.config
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.exe
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.pdb
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Release\Jil.dll
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Release\Sigil.dll
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Release\Jil.xml
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\bin\Release\Sigil.xml
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csprojAssemblyReference.cache
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.ProjectInstaller.resources
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.GenerateResource.cache
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.CoreCompileInputs.cache
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.CopyComplete
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.exe
+D:\Users\zhang\Desktop\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.pdb
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.exe.config
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.exe
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Release\SchoolNetworkAutoLogin.pdb
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Release\Jil.dll
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Release\Sigil.dll
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Release\Jil.xml
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\bin\Release\Sigil.xml
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csprojAssemblyReference.cache
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.ProjectInstaller.resources
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.GenerateResource.cache
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.CoreCompileInputs.cache
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.csproj.CopyComplete
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.exe
+D:\Users\zhang\Desktop\CCNUAutoLoginIn\SchoolNetworkAutoLogin\obj\Release\SchoolNetworkAutoLogin.pdb
