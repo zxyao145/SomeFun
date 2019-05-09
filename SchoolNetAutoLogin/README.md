@@ -1,6 +1,12 @@
 # SchoolNetAutoLogin
 ccnu 华中师范大学校园网自动登录服务，基于.NET Framework 4.6.1。
 
+# 下载
+编译后的文件存放在为Release文件夹中：
++ CCNUAutoLoginRelease：源程序编译文件，请配合InstallUtil.exe使用
++ CCNUAutoLogin.msi：程序安装包
++ CCNUAutoLogin.Conf：程序配置文件模板
+
 # 使用教程
 1. 安装
 + 使用“安装工具”下的InstallUtil.exe
