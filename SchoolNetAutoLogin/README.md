@@ -12,7 +12,7 @@ ccnu 华中师范大学校园网自动登录服务，基于.NET Framework 4.6.1�
 + 使用“安装工具”下的InstallUtil.exe
 将installutil.exe复制到CCNUAutoLogin.exe所在的文件夹中，以管理员身份启动cmd，定位到CCNUAutoLogin.exe所在的文件夹，输入以下命令
 
-`cmd
+`
 installutil.exe CCNUAutoLogin.exe
 sc config CCNUAutoLogin start= auto
 `
